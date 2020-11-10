@@ -1,0 +1,26 @@
+{
+  "name": "piestro",
+  "version": "0.0.1",
+  "description": "RaspberryPi event driven orchistration tool with built in UI for scheduling distributed tasks on a schedule cross many RaspberryPi's. For those that want to schedule digital displays,and IOT houses, and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuzzybaird/piestro.git"
+  },
+  "keywords": [
+    "Schedule",
+    "Events",
+    "UI",
+    "RaspberryPi",
+    "Orchistration"
+  ],
+  "author": "Eli Baird",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuzzybaird/piestro/issues"
+  },
+  "homepage": "https://github.com/fuzzybaird/piestro#readme"
+}
